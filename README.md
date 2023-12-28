@@ -1,4 +1,11 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
+I like to work in:
+* C and C++
+* Lamp stack: Linux, Apache, MySQL, PHP
+* Python
+
 
 <!--
 **t-whiteley/t-whiteley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
