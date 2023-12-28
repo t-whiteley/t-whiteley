@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 I like to work in:
 * C and C++
