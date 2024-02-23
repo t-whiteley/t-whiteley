@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 I like to work in:
-* C and C++
-* Lamp stack: Linux, Apache, MySQL, PHP
-* Python
+📊 Python for automation and scripting
+⚙️ C and C++ for embedded and software development
+👨‍💻 Lamp stack for web development: Linux, Apache, MySQL, PHP
 
 
 <!--
