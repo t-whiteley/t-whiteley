@@ -1,9 +1,9 @@
 ### Hi there 👋  
   
-I like to work in:  
-📊 Python for automation and scripting.  
-⚙️ C and C++ for embedded and software development.  
-👨‍💻 Lamp stack for web development: Linux, Apache, MySQL, PHP.  
+I work in:  
+- Python for scripting and data analysis.  
+- C and C++ for embedded / software development.  
+- Lamp stack for web development: Linux, Apache, MySQL, PHP.  
 
 
 <!--
