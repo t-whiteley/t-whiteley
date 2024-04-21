@@ -1,8 +1,8 @@
 ### Hi there 👋  
   
 I work in:  
-- Python for scripting and data analysis.  
-- C and C++ for embedded / software development.  
+- C and C++ for embedded / software development.
+- Python for scripting and quick automation.
 - Lamp stack for web development: Linux, Apache, MySQL, PHP.  
 
 
