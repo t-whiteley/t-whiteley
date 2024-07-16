@@ -1,9 +1,9 @@
 ### Hi there 👋  
   
 I work in:  
-- C and C++ for embedded / engineering / software development.
-- Python for scripting and automation.
-- Lamp stack for web development: Linux, Apache, MySQL, PHP.  
+- C and C++ for software development and engineering (incl. OpenFOAM).
+- Python for scripting, automation and ML using PyTorch, HuggingFace.
+- Lamp stack for web development: Linux, Apache, MySQL, PHP.
 
 
 <!--
